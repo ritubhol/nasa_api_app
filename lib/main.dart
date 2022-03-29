@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interview_app/master_screen.dart';
+import 'package:interview_app/screens/master_screen.dart';
 
 void main() {
   runApp(const MyApp());
